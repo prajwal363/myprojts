@@ -1,0 +1,5 @@
+{
+    "log_level": "INFO",
+    "log_file": "smart_firewall.log",
+    "model_path": "packet_classifier.pkl"
+}
